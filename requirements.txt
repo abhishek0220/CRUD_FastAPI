@@ -1,0 +1,7 @@
+SQLAlchemy~=1.4.18
+python-dotenv~=0.17.1
+pydantic~=1.8.2
+fastapi~=0.65.2
+mypy
+flake8
+sqlalchemy-stubs
